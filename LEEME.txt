@@ -1,0 +1,29 @@
+KEYPHONE SOLUTIONS V3.0
+========================
+
+NOVEDADES V3
+- Checklist de recepción del equipo: pantalla, cristal/mica, carcasa, cámaras, botones, centro de carga, bocinas/micrófono, Wi-Fi/señal, bandeja SIM y humedad/golpes.
+- Observaciones del estado físico del equipo.
+- Firma del cliente dibujada en pantalla táctil o con mouse.
+- La orden imprimible incluye checklist, observaciones, garantía y firma.
+- Días de garantía configurables por orden.
+- Conserva funciones de V2: fotografías comprimidas, abonos, saldos, usuarios básicos, contraseña, tickets y respaldos.
+
+ACCESO INICIAL
+Usuario: admin
+Contraseña: keyphone123
+Cambia la contraseña inmediatamente.
+
+INSTALACIÓN
+1. Crea un repositorio en GitHub.
+2. Sube index.html, manifest.webmanifest, sw.js y LEEME.txt a la raíz.
+3. En Settings > Pages, selecciona Deploy from a branch, rama main y /(root).
+4. Abre la URL HTTPS que GitHub Pages genere. Abre una vez con Internet para que se almacene la caché offline.
+
+DATOS Y LIMITACIONES
+- Esta versión guarda datos en localStorage del navegador/dispositivo.
+- No hay sincronización automática entre dispositivos. Traslada datos con respaldos manuales.
+- Las fotos y firmas ocupan almacenamiento local; realiza respaldos frecuentes.
+- Los roles son controles básicos de interfaz, no seguridad robusta. Las contraseñas se guardan localmente sin cifrado.
+- No incluye integración real con WhatsApp, firma con validez jurídica certificada, sincronización en nube ni cifrado de base de datos.
+- Antes de usar con datos reales de clientes, requiere auditoría y refuerzo de seguridad, cifrado y autenticación.

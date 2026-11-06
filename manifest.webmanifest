@@ -1,0 +1,10 @@
+{
+  "name": "KEYPHONE SOLUTIONS",
+  "short_name": "Keyphone",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#101426",
+  "description": "Gestión local de servicio técnico celular",
+  "icons": []
+}
